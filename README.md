@@ -1,1 +1,2 @@
-# astar-algorithm-visualizer-
+# A* Path Finding Algorithm Visualizer
+
