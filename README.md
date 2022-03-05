@@ -1,2 +1,3 @@
 # A* Path Finding Algorithm Visualizer
 
+This is the first commit for algorithm. To be continued...
